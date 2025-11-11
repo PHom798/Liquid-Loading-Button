@@ -22,7 +22,7 @@ This project serves as a **creative showcase** for developers exploring advanced
   
   
   *Interactive buttons with mesmerizing liquid effects*
-  <video src="https://github.com/user-attachments/assets/your-video-id" controls width="100%" ></video>
+  <video src="https://github.com/user-attachments/assets/a6e73016-5736-45b8-8c6b-b3d68afbb0e5" controls width="100%" ></video>
 
     
 </div>
@@ -41,31 +41,6 @@ This project serves as a **creative showcase** for developers exploring advanced
 
 ---
 
-## 📸 Screenshots
-
-<div align="left">
-  <table>
-    <tr>
-      <td><img src="screenshots/image1.jpg" alt="Liquid Button Example 1" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Liquid Button Example 2" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Liquid Button Example 3" width="250"/></td>
-      <td><img src="screenshots/image4.jpg" alt="Liquid Button Example 4" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎥 Demo Video
-
-Watch the **Liquid Button Design** in action:
-<div align="center">
-<video src="https://github.com/user-attachments/assets/your-demo-video-id" controls width="100%" ></video> 
-</div>
-
-
-
----
 
 ## 🏗️ Tech Stack
 
